@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software engineering student at ALX, a Full-Stack web developer, and a novice in penetration testing. Passionate about transforming ideas into unique web experiences. Enthusiastic learner dedicated to crafting a secure and innovative digital world.<br><br><br><br>
+Software engineering student, a Full-Stack web developer, and a novice in penetration testing. Passionate about transforming ideas into unique web experiences. Enthusiastic learner dedicated to crafting a secure and innovative digital world.<br><br><br><br>
 
 
 ## 🌐 Socials:
