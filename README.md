@@ -20,5 +20,8 @@ Dedicated software engineering student with a fervent interest in ethical hackin
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karim-Benkhira&icon=0&color=0)](https://visitcount.itsvg.in)
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="karim-benkhira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/karim-benkhira?trk=profile-badge">KARIM BENKHIRA</a></div>
+              
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
