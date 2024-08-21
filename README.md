@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated software engineering student with a fervent interest in ethical hacking and cybersecurity. Currently exploring the realm of penetration testing, I am committed to continuous learning and the adoption of cutting-edge techniques to fortify my skill set. My passion lies in translating imaginative concepts into distinctive web experiences. I am an enthusiastic learner dedicated to shaping a secure and innovative digital landscape<br><br><br><br>
+I'm a Penetration Tester and Security Researcher. I love learning new things and using the latest tech to make things safer online. I'm all about making the internet a safer place for everyone.<br><br><br><br>
 
 
 ## 🌐 Socials:
